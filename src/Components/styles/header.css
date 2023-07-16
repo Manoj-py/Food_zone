@@ -1,0 +1,34 @@
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0px 10px 0px;
+    background-color: antiquewhite;
+    border-radius: 25px;
+    
+}
+.logo{
+    width: 100px;
+    mix-blend-mode: darken;
+    
+}
+.navItems > ul{
+    display: flex;
+    list-style: none;
+    
+    
+}
+.navItems > ul >li{
+    margin: 10px;
+    
+}
+.link{
+    text-decoration: none;
+}
+.link:visited,.link:link,.link:active{
+    color: black;
+}
+.link:hover{
+    color: gray;
+}

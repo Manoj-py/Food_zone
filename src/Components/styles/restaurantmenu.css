@@ -1,0 +1,4 @@
+.restaurantContainer{
+    display: flex;
+    justify-content: space-evenly;
+}

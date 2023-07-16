@@ -1,0 +1,12 @@
+.restaurantList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.shimmer-card{
+    width: 200px;
+    height: 200px;
+    background-color: lightgrey;
+    margin: 20px ;
+}

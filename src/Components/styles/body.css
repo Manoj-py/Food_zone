@@ -1,0 +1,28 @@
+
+.restaurantCard{
+    text-decoration: none;
+}
+.restaurantCard:visited,.restaurantCard:link,.restaurantCard:active{
+    color: black;
+}
+.restaurantCard:hover{
+    background-color: antiquewhite;
+    border-radius: 25px;
+    
+}
+
+.card{
+    width:200px;
+    margin: 10px;
+    padding: 10px;
+
+}
+.restaurantImage{
+    width: 100%;
+}
+.restaurant-list{
+    display: flex;
+    flex-wrap: wrap ;
+   width:fit-content;
+   justify-content: center;
+ }
